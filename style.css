@@ -1,0 +1,12 @@
+.bg-offwhite{
+    background-color: bisque;
+}
+.btn-saddlebrown{
+    background-color: saddlebrown;
+}
+body{
+    background-image: url(bg-calc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Comic Neue" ;
+}
